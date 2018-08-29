@@ -4,7 +4,7 @@
 		module="sparkaa$sources"
 		revision="0.1"
 		status="integration"
-		publication="20180829083414"
+		publication="20180829085819"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

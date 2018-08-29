@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkaa.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkAA.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkAA.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkaa-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkaa-build.iml" />
     </modules>
   </component>
